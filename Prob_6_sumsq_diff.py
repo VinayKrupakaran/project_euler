@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #This program computes the difference between the sum of the squares and the square of the sum
 #of the first one hundred natural numbers 
 
