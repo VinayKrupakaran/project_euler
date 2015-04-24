@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #This program computes the largest palindrome made from the product 
 #of two 3-digit numbers
 
